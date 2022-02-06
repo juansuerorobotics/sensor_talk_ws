@@ -2,6 +2,12 @@
 ROS talker listener example but with "sliding window sensor"
 
 
+git clone https://github.com/juansuerorobotics/sensor_talk_ws.git
+
+cd sensor_talk_ws
+
+catkin_make
+
 vi ~/.bashrc
 
 source devel/setup.bash
