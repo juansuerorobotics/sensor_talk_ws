@@ -1,6 +1,9 @@
 # sensor_talk_ws
 ROS talker listener example but with "sliding window sensor"
 
+I ran these on ROS1 Noetic on Ubuntu 20.04  
+Long story short it streamlines the sensor example instead of looping through the queue everytime.
+
 
 git clone https://github.com/juansuerorobotics/sensor_talk_ws.git
 
