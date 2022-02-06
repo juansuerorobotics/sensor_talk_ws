@@ -3,6 +3,7 @@ ROS talker listener example but with "sliding window sensor"
 
 
 vi ~/.bashrc
+
 source devel/setup.bash
 
 open new terminal
