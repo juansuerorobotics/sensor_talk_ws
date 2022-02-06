@@ -1,0 +1,8 @@
+prefix=/home/meta/org/catkin_ws/devel
+
+Name: sensor_listener
+Description: Description of sensor_listener
+Version: 1.3.2
+Cflags: -I/home/meta/org/catkin_ws/src/sensor_listener/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs

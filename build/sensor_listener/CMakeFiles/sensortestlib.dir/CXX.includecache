@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/meta/org/catkin_ws/src/sensor_listener/include/sensor/sensor_datatypes.h
+iostream
+-
+queue
+-
+
+/home/meta/org/catkin_ws/src/sensor_listener/src/sensor/sensor_datatypes.cpp
+sensor/sensor_datatypes.h
+/home/meta/org/catkin_ws/src/sensor_listener/src/sensor/sensor/sensor_datatypes.h
+queue
+-
+

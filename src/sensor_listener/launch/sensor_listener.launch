@@ -1,0 +1,11 @@
+<launch>
+
+    <arg name="sensor_span"   />
+  
+    <param name="sensor_span" value="$(arg sensor_span)"/>
+  
+  
+    <node pkg="sensor_listener" type="sensor_listener_node" name="sensor_listener_node" output="screen" />
+  
+   
+  </launch>

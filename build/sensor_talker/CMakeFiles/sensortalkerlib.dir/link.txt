@@ -1,0 +1,2 @@
+/bin/ar qc /home/meta/org/catkin_ws/devel/lib/libsensortalkerlib.a  CMakeFiles/sensortalkerlib.dir/src/sensor_talker/sensor_talker_driver.cpp.o
+/bin/ranlib /home/meta/org/catkin_ws/devel/lib/libsensortalkerlib.a

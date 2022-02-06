@@ -1,0 +1,11 @@
+<launch>
+
+  <arg name="sensor_numreadings"   />
+
+  <param name="sensor_numreadings" type="int" value="$(arg sensor_numreadings)"/>
+
+
+  <node pkg="sensor_talker" type="sensor_talker_node" name="sensor_talker_node" output="screen" />
+
+ 
+</launch>

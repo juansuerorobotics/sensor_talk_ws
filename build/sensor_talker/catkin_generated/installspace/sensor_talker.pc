@@ -1,0 +1,8 @@
+prefix=/home/meta/org/catkin_ws/install
+
+Name: sensor_talker
+Description: Description of sensor_talker
+Version: 1.3.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs

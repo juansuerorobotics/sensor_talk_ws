@@ -1,0 +1,2 @@
+sensor_listener:sensor_talker
+-DCATKIN_DEVEL_PREFIX=/home/meta/org/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/meta/org/catkin_ws/install -G Unix Makefiles

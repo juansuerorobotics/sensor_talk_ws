@@ -1,0 +1,2 @@
+/bin/ar qc /home/meta/org/catkin_ws/devel/lib/libsensortestlib.a  CMakeFiles/sensortestlib.dir/src/sensor/sensor_datatypes.cpp.o
+/bin/ranlib /home/meta/org/catkin_ws/devel/lib/libsensortestlib.a
